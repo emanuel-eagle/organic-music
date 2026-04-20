@@ -12,7 +12,7 @@ Everything here is documented so you can build it yourself; the circuit, the cod
  
 Recordings are saved as `.wav` files to `./samples` and can be shared anywhere audio files work.
 
-**[Listen to an example recording](https://soundcloud.com/emanuel_eagle/plant_20260420_180437?si=6f64b3dae1e84f518d785bc9c3c4dd78&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+**[Listen to What The Below Set up Produced!](https://soundcloud.com/emanuel_eagle/plant_20260420_180437?si=6f64b3dae1e84f518d785bc9c3c4dd78&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
 
 <img src="IMG_0049.jpg" width="550" alt="Setup Example">
 
