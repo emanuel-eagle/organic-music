@@ -69,7 +69,7 @@ A 470 ohm resistor gives about 100x gain, which is a good starting point. Too li
 - Red clip → somewhere on a leaf
 - Black clip → into the soil near the roots
 
-Keep the wires short. Move the breadboard away from your computer if you pick up a strong 60 Hz sawtooth pattern — that is mains electrical noise from the wall outlets, not the plant.
+Keep the wires short. Move the breadboard away from your computer if you pick up a strong 60 Hz sawtooth pattern - that is mains electrical noise from the wall outlets, not the plant.
 
 ---
 
@@ -117,7 +117,7 @@ SIGNAL_MAX = 54        # expected maximum analog reading
 python3 src/main.py
 ```
 
-The script will warm up silently for a moment while it fills the signal window, then the tone will begin. Let it run as long as you like — the plant will do what it does.
+The script will warm up silently for a moment while it fills the signal window, then the tone will begin. Let it run as long as you like, the plant will do what it does.
 
 Press `Ctrl+C` to stop. You'll be asked if you want to save the session as a `.wav` file. If you say yes, it gets written to `./samples/plant_TIMESTAMP.wav`.
 
