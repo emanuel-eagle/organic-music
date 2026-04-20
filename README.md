@@ -1,7 +1,5 @@
 # organic-music
 
-**[Listen to an example recording](https://soundcloud.com/emanuel_eagle/plant_20260420_180437?si=6f64b3dae1e84f518d785bc9c3c4dd78&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
-
 Plants are very much alive, and can be understood in many different ways, one of those ways is sound. Plants' production of these electrical signals is complex an an active field of study. One of the leading explanations for these signals is Action Potentials, these are when the plants vascular system (phloem) reacts to various stimuli around the plant, an example many folks may recognize is a Venus flytrap closing on an insect. 
  
 This project listens to those signals and turns them into sound. While this can be a new and cool way to look at plants, it's worth considering that this is massively a human driven project. This is valuable to consider as it's a great reminder that our perception and understanding of the natural world is significantly limited by the tools we use to analyze it and our own sensory restraints. 
@@ -14,7 +12,9 @@ Everything here is documented so you can build it yourself; the circuit, the cod
  
 Recordings are saved as `.wav` files to `./samples` and can be shared anywhere audio files work.
 
-![Setup Example](IMG_0049.jpg)
+**[Listen to an example recording](https://soundcloud.com/emanuel_eagle/plant_20260420_180437?si=6f64b3dae1e84f518d785bc9c3c4dd78&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+
+<img src="IMG_0049.jpg" width="400" alt="Setup Example">
 
 ---
 
